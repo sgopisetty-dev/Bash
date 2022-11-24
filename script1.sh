@@ -1,2 +1,2 @@
-echo "Hello Ubuntu"
+echo "Hello Linux"
 echo "from Ghost"
